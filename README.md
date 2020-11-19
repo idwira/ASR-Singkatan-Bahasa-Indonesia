@@ -46,7 +46,7 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
    - Tutup *Command Prompt*-nya, lalu buka lagi baru. Finalisasi setx PATH di atas dengan perintah ```echo %PATH%```:
      ``` cmd
      C:\Users\Wira>echo %PATH%
-     ```  <br><br>
+     ```
 7. Testing
       
       
