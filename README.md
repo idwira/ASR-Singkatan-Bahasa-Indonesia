@@ -32,4 +32,6 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
          ```
          Control panel >> System and Security >> System >> Advanced System Settings >> Environment Variables
          ```
-   - Test
+   - Akan ada dua bagian, *User Variables* atau *System Variables*, kita perlu tambahkan yang bagian ***User Variables***.
+   - Klik tombol 'New' untuk memasukkan user variable yang baru, masukkan satu persatu.
+      - *Variable name* 'htk'; *Variable value* masukkan *path* htk yang sudah dicatat di langkah-4.
