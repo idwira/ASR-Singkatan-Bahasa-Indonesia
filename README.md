@@ -48,6 +48,17 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      C:\Users\Wira>echo %PATH%
      ```
 7. Testing
-      
-      
+   Uji apakah *path* sudah benar dan aplikasi bisa dijalankan, buka ***Command Prompt***:
+   - HTK
+     ``` cmd
+     C:\Users\Wira>HVite
+     ```
+     Akan ditampilkan list ```USAGE: HVite [options] VocabFile HMMList DataFiles...``` jika eksekusinya berhasil.
+   - Julius (testing ini menggunakan Julius ver 4.3.1, sesuaikan dengan versi yang terinstall)
+     ```
+     C:\Users\Wira>julius-4.3.1
+     ```
+     Akan ditampilkan ```Julius rev.4.3.1 - based on JuliusLib rev.4.3.1 (fast)  built for i686-pc-cygwin``` jika eksekusinya berhasil.
+   - 
+
   
