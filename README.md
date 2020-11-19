@@ -5,5 +5,5 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
 2. Download [Software dan Guide](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial/download) (**angka versi terkini bisa berbeda**)
    - The Hidden Markov Model Toolkit (HTK), toolkit portabel untuk membangun dan memanipulasi hidden Markov models. HTK utamanya digunakan untuk *speech recognition* (htk-3.3-windows-binary)
    - htkbook_pdf (referensi toolkit commands)
-   - *Large vocabulary continuous speech recognition (LVCSR) engine*: julius-4.3.1-win32bin [(Latest ver)](http://julius.osdn.jp/en_index.php#latest_version)
-   - Julia, bahasa scripting *high-level*, *high-performance* untuk *technical computing* (julia-1.5.3-win64) [Latest ver](https://julialang.org/downloads/)
+   - *Large vocabulary continuous speech recognition (LVCSR) engine*: julius-4.3.1-win32bin [(*latest ver*)](http://julius.osdn.jp/en_index.php#latest_version)
+   - Julia, bahasa scripting *high-level*, *high-performance* untuk *technical computing* (julia-1.5.3-win64) [(*latest ver*)](https://julialang.org/downloads/)
