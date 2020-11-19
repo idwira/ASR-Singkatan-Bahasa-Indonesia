@@ -48,7 +48,7 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      C:\Users\Wira>echo %PATH%
      ```
 7. Testing
-   Uji apakah *path* sudah benar dan aplikasi bisa dijalankan, buka ***Command Prompt***:
+   Uji apakah *path* sudah benar dan aplikasi bisa dijalankan, semua perintah dibawah dilakukan pada ***Windows Command Prompt***:
    - HTK
      ``` cmd
      C:\Users\Wira>HVite
