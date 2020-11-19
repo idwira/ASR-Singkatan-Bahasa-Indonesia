@@ -28,7 +28,7 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
          ```<br><br>
 5. Konfigurasi *system environment variables* di Windows OS untuk ketiga *path* di langkah-4. Ini penting karena ketiga aplikasi diatas akan diakses melalui ***Command Prompt*** *Windows*. Kita ingin bisa mengeksekusi/membuka aplikasi-aplikasi tersebut tanpa mesti repot masuk ke lokasi folder aplikasi masing-masing.
    - Buka menu 'edit the system environment variables', bisa melalui menu search di Windows dengan kata kunci tersebut, atau
-   - Masuk ke menu
+   - Melalui menu
          ```
          Control panel >> System and Security >> System >> Advanced System Settings >> Environment Variables
          ```
