@@ -37,12 +37,16 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
       - *Variable name* 'HTK'; *Variable value* masukkan *path* htk yang sudah dicatat di langkah-4.
       - *Variable name* 'Julius'; *Variable value* masukkan *path* Julius yang sudah dicatat di langkah-4.
       - *Variable name* 'Julia'; *Variable value* masukkan *path* Julia yang sudah dicatat di langkah-4.<br><br>
-6. Testing
+6. Finalisasi *Environment Variables*
    - *Update Windows PATH environment variable* untuk HTK, Julius and Julia melalui *Command Prompt* Windows<br> (dengan perintah 'setx PATH'). Copy-paste lagi ketiga path yang sudah dilokasikan dilangkah-4. Contoh di PC saya (lakukan di ***Windows Command Prompt***):
-      ``` cmd
-      C:\>setx PATH "C:\Users\Wira\voxforge\bin\htk-3.3-windows-binary\htk;C:\Users\Wira\AppData\Local\Programs\Julia 1.5.3\bin;C:\Users\Wira\voxforge\bin\julius-4.3.1-win32bin\bin"
-      ```
+     ``` cmd
+     C:\>setx PATH "C:\Users\Wira\voxforge\bin\htk-3.3-windows-binary\htk;C:\Users\Wira\AppData\Local\Programs\Julia 1.5.3\bin;C:\Users\Wira\voxforge\bin\julius-4.3.1-win32bin\bin"
+     ```
      Akan ditampilkan ```SUCCESS: Specified value was saved.``` jika updatenya berhasil.
+   - Tutup Command Prompt-nya, lalu buka lagi baru. Finalisasi setx PATH di atas dengan perintah ```echo %PATH%```:
+     ``` cmd
+     C:\Users\Wira>echo %PATH%
+     ``` 
       
       
   
