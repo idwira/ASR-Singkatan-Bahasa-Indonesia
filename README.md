@@ -5,4 +5,4 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
 2. Download [Software dan Guide](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial/download) (angka versi terkini bisa berbeda)
    - htk-3.3-windows-binary
    - htkbook_pdf
-   - Julius [julius-4.3.1-win32bin](http://julius.osdn.jp/en_index.php#latest_version)
+   - julius-4.3.1-win32bin [Julius latest version](http://julius.osdn.jp/en_index.php#latest_version)
