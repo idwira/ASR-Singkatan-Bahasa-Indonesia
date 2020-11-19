@@ -14,7 +14,7 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
    - Untuk htkbook_pdf, ekstrak juga filenya, di dalamnya dokumen panduan HTK (format pdf).
    - Untuk Julia, mesti dilakukan instalasi. Eksekusi file "julia-1.5.3-win32.exe" (installer)-nya.<br><br>
 4. Catat *path* masing-masing aplikasi HTK, Julius dan Julia.
-   - Untuk HTK, di PC saya lokasinya di (*path* persisnya akan berbeda di tiap PC, nama user PC saya Wira):
+   - Untuk HTK, di PC saya lokasinya di (*path* persisnya akan berbeda di tiap PC, nama user PC saya 'Wira'):
          ```
          C:\Users\Wira\voxforge\bin\htk-3.3-windows-binary\htk
          ```
