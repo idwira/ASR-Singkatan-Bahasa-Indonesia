@@ -43,10 +43,11 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      C:\>setx PATH "C:\Users\Wira\voxforge\bin\htk-3.3-windows-binary\htk;C:\Users\Wira\AppData\Local\Programs\Julia 1.5.3\bin;C:\Users\Wira\voxforge\bin\julius-4.3.1-win32bin\bin"
      ```
      Akan ditampilkan ```SUCCESS: Specified value was saved.``` jika updatenya berhasil.
-   - Tutup Command Prompt-nya, lalu buka lagi baru. Finalisasi setx PATH di atas dengan perintah ```echo %PATH%```:
+   - Tutup *Command Prompt*-nya, lalu buka lagi baru. Finalisasi setx PATH di atas dengan perintah ```echo %PATH%```:
      ``` cmd
      C:\Users\Wira>echo %PATH%
-     ``` 
+     ```  <br><br>
+7. Testing
       
       
   
