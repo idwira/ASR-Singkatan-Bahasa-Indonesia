@@ -35,3 +35,7 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
    - Akan ada dua bagian, *User Variables* atau *System Variables*, kita perlu tambahkan yang bagian ***User Variables***.
    - Klik tombol 'New' untuk memasukkan user variable yang baru, masukkan satu persatu.
       - *Variable name* 'htk'; *Variable value* masukkan *path* htk yang sudah dicatat di langkah-4.
+      - *Variable name* 'Julius'; *Variable value* masukkan *path* Julius yang sudah dicatat di langkah-4.
+      - *Variable name* 'Julia'; *Variable value* masukkan *path* Julia yang sudah dicatat di langkah-4.
+      
+  
