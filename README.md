@@ -1,5 +1,5 @@
 ## ASR-Singkatan-Bahasa-Indonesia
-###### Automatic Speech Recognition (ASR) Bahasa Indonesia untuk pengucapan singkatan dan akronim. Singkatan dibaca huruf per huruf, contoh PSBB (Pembatasan Sosial Berskala Besar). Akronim adalah singkatan yang dibaca biasa, tidak huruf per-huruf contoh KOPASSUS (Komando Pasukan Khusus).
+### Automatic Speech Recognition (ASR) Bahasa Indonesia untuk pengucapan singkatan dan akronim. Singkatan dibaca huruf per huruf, contoh PSBB (Pembatasan Sosial Berskala Besar). Akronim adalah singkatan yang dibaca biasa, tidak huruf per-huruf contoh KOPASSUS (Komando Pasukan Khusus).
 
 Platform: **Windows 10 (Nov 2020)**<br>
 Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial)<br>
