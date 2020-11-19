@@ -58,7 +58,12 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      ```
      C:\Users\Wira>julius-4.3.1
      ```
-     Akan ditampilkan ```Julius rev.4.3.1 - based on JuliusLib rev.4.3.1 (fast)  built for i686-pc-cygwin``` jika eksekusinya berhasil.
-   - 
-
-  
+     Jika berhasil akan ditampilkan ```Julius rev.4.3.1 - based on JuliusLib rev.4.3.1 (fast)  built for i686-pc-cygwin```
+   - Julia
+     ```
+     C:\Users\Wira>julia
+     ```
+     Jika berhasil akan ditampilkan logo 'Julia' dan *prompt* berubah menjadi 
+     ``` julia
+     julia>
+     ```  
