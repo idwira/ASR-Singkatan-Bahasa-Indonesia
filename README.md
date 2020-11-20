@@ -2,8 +2,8 @@
 #### Automatic Speech Recognition (ASR) Bahasa Indonesia untuk pengucapan singkatan dan akronim. Singkatan dibaca huruf per huruf, contoh PSBB (Pembatasan Sosial Berskala Besar). Akronim adalah singkatan yang dibaca biasa, tidak huruf per-huruf contoh KOPASSUS (Komando Pasukan Khusus).
 
 Platform: **Windows 10 (Nov 2020)**<br>
-### Persiapan Tools
 Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial)<br>
+### Persiapan Tools
 1. Buat directory voxforge/bin, lokasi bisa di folder C: > Users > namauser > voxforge > bin<br><br>
 2. Download dari [Software dan Guide](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial/download) (**angka versi terkini bisa berbeda**)
    - The Hidden Markov Model Toolkit (HTK), toolkit portabel untuk membangun dan memanipulasi hidden Markov models. HTK utamanya digunakan untuk *speech recognition* (htk-3.3-windows-binary), simpan di folder voxforge/bin diatas
@@ -69,4 +69,8 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      julia>
      ```  
 8. Instalasi Audacity<br>
-   Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.   
+   Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.
+
+### Persiapan Data (*Data Preparation*)
+
+
