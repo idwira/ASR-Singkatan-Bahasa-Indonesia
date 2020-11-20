@@ -68,6 +68,5 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      ``` julia
      julia>
      ```  
-8. Instalasi Audacity
-   Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.
-   
+8. Instalasi Audacity<br>
+   Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.   
