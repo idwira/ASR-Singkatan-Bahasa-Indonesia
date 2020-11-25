@@ -69,10 +69,13 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      julia>
      ```  
    **Catatan:**
-   Dalam beberapa kasus, langkah 6 dan 7 diatas mesti diulang jika setelah restart PC ternyata testingnya gagal (tidak konsisten). Diulang saja, jika semua benar mestinya ini    permanen di Windows.
+   Dalam beberapa kasus, langkah 6 diatas mesti diulang jika setelah restart PC ternyata testingnya gagal (tidak konsisten). Diulang saja, jika semua benar mestinya ini    permanen di Windows.
 
 8. Instalasi Audacity<br>
    Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.
 
 ### B. Persiapan Data (*Data Preparation*)
+
+Secara umum semua sistem ASR membutuhkan tiga komponen, yaitu Language Model atau Grammar, Acoustic Model dan Decoder (detail data preparation bisa dibaca di [Voxforge](http://www.voxforge.org/home/dev/acousticmodels/windows/create/htkjulius/tutorial/data-prep))
+
 1. Test
