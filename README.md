@@ -70,9 +70,12 @@ Langkah-langkah mengikuti [Tutorial: Create Acoustic Model - Manually](http://ww
      ```  
    **Catatan:**
    Dalam beberapa kasus, langkah 6 diatas mesti diulang jika setelah restart PC ternyata testingnya gagal (tidak konsisten). Diulang saja, jika semua benar mestinya ini    permanen di Windows.
-
+   
 8. Instalasi Audacity<br>
    Audacity adalah *tool* perekam dan *editor* audio multi-track yang gratis serta mudah digunakan. Langsung saja download installernya dari situs resmi [Audacity](https://www.audacityteam.org/) dan jalankan instalasinya di PC.
+   
+9. Instalasi *Text Editor*<br>
+   Saat bekerja dengan berbagai program diatas, akan dibutuhkan untuk menyimpan script yang diberikan dalam format khusus, misalnya julia (.jl). Mengandalkan notepad saja tidak cukup, silahkan menggunakan text editor yang lebih lengkap, seperti [Notepad++](https://notepad-plus-plus.org/), [VS Code](https://code.visualstudio.com/) atau text editor lain pilihan anda.
 
 ### B. Persiapan Data (*Data Preparation*)
 
